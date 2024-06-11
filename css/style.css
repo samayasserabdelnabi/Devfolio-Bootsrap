@@ -1,0 +1,38 @@
+header{
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+header h1{
+    font-size: 48px;
+    font-weight: 900;
+}
+.icon{
+   
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: solid 1px rgba(255, 255, 255, 0.5);
+    color: white;
+    margin: 5px;
+}
+.social-panel a{
+    color: white;
+    
+}
+.color-main{
+    color: #ff305b;
+}
+.title h2{
+    font-size: 80px;
+    font-weight: 900;
+    color: #f1f1f1;
+}
+.title h3{
+    font-size: 40px;
+    font-weight: 900;
+    color: #000;
+}
+#about{
+    background-image: url(../images/light_dot.jpg);
+}
